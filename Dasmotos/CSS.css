@@ -1,0 +1,38 @@
+html {
+    padding: 0px;
+    margin: 0px;
+    font-family: Helvetica, sans-serif;
+
+}
+
+.header {
+    background-image: url(pattern.jpeg);
+    font-size: 100px;
+    font-weight: bold;
+    color: khaki;
+    text-align: center;
+}
+
+/* Brush */
+.Article-Brushes {
+    background-color: mediumseagreen;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+}
+
+/* Frame */
+.Article-Frames {
+    background-color: lightcoral;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+}
+
+/* Paint */
+.Article-Paint{
+    background-color: skyblue;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+}
